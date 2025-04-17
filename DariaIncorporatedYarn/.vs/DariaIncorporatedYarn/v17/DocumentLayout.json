@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\Final\\DariaIncorporatedYarn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4938E5E9-6F8B-4330-8E4A-571122190151}|DIYFrontEnd\\DIYFrontEnd.csproj|c:\\users\\daria\\onedrive - central new mexico community college\\cnm\\spring 2025\\cis 2284 - net ii - c#\\final\\dariaincorporatedyarn\\diyfrontend\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4938E5E9-6F8B-4330-8E4A-571122190151}|DIYFrontEnd\\DIYFrontEnd.csproj|solutionrelative:diyfrontend\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285ED2AE-9DFD-4175-B5DE-73B77F9F7DE8}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\onedrive - central new mexico community college\\cnm\\spring 2025\\cis 2284 - net ii - c#\\final\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285ED2AE-9DFD-4175-B5DE-73B77F9F7DE8}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097828C8-DA68-46FF-A8C6-EE89514F9EE1}|SharedLibrary\\SharedLibrary.csproj|c:\\users\\daria\\onedrive - central new mexico community college\\cnm\\spring 2025\\cis 2284 - net ii - c#\\final\\dariaincorporatedyarn\\sharedlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097828C8-DA68-46FF-A8C6-EE89514F9EE1}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4938E5E9-6F8B-4330-8E4A-571122190151}|DIYFrontEnd\\DIYFrontEnd.csproj|c:\\users\\daria\\onedrive - central new mexico community college\\cnm\\spring 2025\\cis 2284 - net ii - c#\\final\\dariaincorporatedyarn\\diyfrontend\\diyfrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4938E5E9-6F8B-4330-8E4A-571122190151}|DIYFrontEnd\\DIYFrontEnd.csproj|solutionrelative:diyfrontend\\diyfrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactForm.razor",
+              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\Final\\DariaIncorporatedYarn\\DIYFrontEnd\\Pages\\ContactForm.razor",
+              "RelativeDocumentMoniker": "DIYFrontEnd\\Pages\\ContactForm.razor",
+              "ToolTip": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\Final\\DariaIncorporatedYarn\\DIYFrontEnd\\Pages\\ContactForm.razor",
+              "RelativeToolTip": "DIYFrontEnd\\Pages\\ContactForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T22:53:20.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\Final\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Program.cs",
+              "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Program.cs",
+              "ToolTip": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\Final\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Program.cs",
+              "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:38:21.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\Final\\DariaIncorporatedYarn\\SharedLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\Final\\DariaIncorporatedYarn\\SharedLibrary\\Class1.cs",
+              "RelativeToolTip": "SharedLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:36:35.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DIYFrontEnd",
+              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\Final\\DariaIncorporatedYarn\\DIYFrontEnd\\DIYFrontEnd.csproj",
+              "RelativeDocumentMoniker": "DIYFrontEnd\\DIYFrontEnd.csproj",
+              "ToolTip": "C:\\Users\\Daria\\OneDrive - Central New Mexico Community College\\CNM\\Spring 2025\\CIS 2284 - Net II - C#\\Final\\DariaIncorporatedYarn\\DIYFrontEnd\\DIYFrontEnd.csproj",
+              "RelativeToolTip": "DIYFrontEnd\\DIYFrontEnd.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T22:33:01.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
