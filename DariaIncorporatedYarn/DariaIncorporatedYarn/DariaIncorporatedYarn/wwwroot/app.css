@@ -1,6 +1,13 @@
 html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: Papyrus;
+    background-color: #F6EEE0;
 }
+
+h1, h3, h4, h5, h6 {
+    font-weight: bold; /* Makes the text bold */
+    text-decoration: underline; /* Adds an underline */
+}
+
 
 a, .btn-link {
     color: #006bb7;
@@ -49,3 +56,12 @@ h1:focus {
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
 }
+
+.nav-scrollable {
+    background-color: #C9F1E5;
+    color: black !important;
+}
+
+    .nav-scrollable .nav-link {
+        color: black !important; /* Ensures nav-link text is black */
+    }

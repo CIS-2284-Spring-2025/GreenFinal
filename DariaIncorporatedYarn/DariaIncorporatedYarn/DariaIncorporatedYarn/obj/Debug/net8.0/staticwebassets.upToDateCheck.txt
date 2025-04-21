@@ -1,0 +1,5 @@
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\images\book-fill.svg
+wwwroot\images\cart.svg

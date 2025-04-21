@@ -1,0 +1,109 @@
+﻿@*Name: Daria Green*@
+@*Email: Dgreen50@cnm.edu*@
+@*File: OrderDetails.razor*@
+
+@page "/Order-Details/{Id:int?}"
+@inject NavigationManager Navigation
+@inject ApplicationDbContext Database
+@using System
+@using System.Collections.Generic
+@using System.ComponentModel.DataAnnotations
+@using DariaIncorporatedYarn.Components.Models
+@using DariaIncorporatedYarn.Data
+@using Microsoft.AspNetCore.Components.Forms
+
+<h3>AssetDetails</h3>
+
+@*Form to input asset details from user*@
+<EditForm FormName="OrderForm" Model="@Order" OnValidSubmit=@SaveOrder>
+	<DataAnnotationsValidator />
+	<ValidationSummary />
+
+	<div class="mb-3">
+		<label for="firstName" class="form-label">First Name</label>
+		<InputText id="firstName" class="form-control" @bind-Value="Order.FirstName" />
+		<ValidationMessage For="@(() => Order.FirstName)" />
+	</div>
+
+	<div class="mb-3">
+		<label for="lastName" class="form-label">Last Name</label>
+		<InputText id="lastName" class="form-control" @bind-Value="Order.LastName" />
+		<ValidationMessage For="@(() => Order.LastName)" />
+	</div>
+
+	<div class="mb-3">
+		<label for="email" class="form-label">Email</label>
+		<InputText id="email" class="form-control" @bind-Value="Order.Email" />
+		<ValidationMessage For="@(() => Order.Email)" />
+	</div>
+
+	<div class="mb-3">
+		<label for="phoneNumber" class="form-label">Phone Number</label>
+		<InputNumber id="phoneNumber" class="form-control" @bind-Value="Order.PhoneNumber" />
+		<ValidationMessage For="@(() => Order.PhoneNumber)" />
+	</div>
+
+	<div class="mb-3">
+		<label for="message" class="form-label">Custom Order Request</label>
+		<InputTextArea id="message" class="form-control" @bind-Value="Order.CustomOrderRequest" />
+		<ValidationMessage For="@(() => Order.CustomOrderRequest)" />
+	</div>
+
+	<button class="btn btn-success">Save Order</button>
+</EditForm>
+
+@code {
+	private Order Order { get; set; } = new Order();
+	[Parameter] public int? Id { get; set; }
+
+	protected override void OnInitialized()
+	{
+		if (!Id.HasValue)
+		{
+			Order = new Order
+				{
+					Id = 0,
+					FirstName = "Default First Name",
+					LastName = "Default Last Name",
+					Email = "Default Email",
+					PhoneNumber = 0,
+					CustomOrderRequest = "Place Request Here"
+				};
+		}
+		else
+		{
+
+			Order = Database.Orders.FirstOrDefault(a => a.Id == Id.Value) ?? new Order
+				{
+					Id = Id.Value,
+					FirstName = "Unknown Asset",
+					LastName = "Unknown Asset",
+					Email = "Unknown Asset",
+					PhoneNumber = 0,
+					CustomOrderRequest = "Unknown Asset"
+				};
+		}
+
+	}
+
+	private void SaveOrder()
+	{
+		try
+		{
+			//Save Order logic (e.g., database)
+			Database.Orders.Add(Order);
+			Database.SaveChanges();
+
+			// Navigate back to the previous page
+			Navigation.NavigateTo("/Order");
+		}
+
+		catch (Exception ex)
+		{
+			Console.WriteLine($"ERROR! Please try saving your asset again.");
+		}
+		
+	}
+
+}
+

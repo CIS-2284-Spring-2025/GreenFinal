@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-DariaIncorporatedYarn-2fa5921e-3776-436e-b675-ec0739e8f9f3")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-DariaIncorporatedYarn-82042f70-ff61-4f02-b198-dcae6fe34944")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("DariaIncorporatedYarn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

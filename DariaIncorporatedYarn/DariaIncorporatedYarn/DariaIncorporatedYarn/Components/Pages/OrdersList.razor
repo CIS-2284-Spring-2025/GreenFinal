@@ -1,0 +1,78 @@
+﻿@*Name: Daria Green*@
+@*Email: Dgreen50@cnm.edu*@
+@*File: OrderLists.razor*@
+
+@page "/orderLists"
+@inject NavigationManager Navigation
+@inject ApplicationDbContext Database
+@using DariaIncorporatedYarn.Components.Models
+@using DariaIncorporatedYarn.Data
+
+<h3>Custom Orders List</h3>
+
+@* Table to display alll assets for the user*@
+<table class="table">
+	<thead>
+		<tr>
+			<th>First Name</th>
+			<th>Last Name</th>
+			<th>Email</th>
+			<th>Phone Number</th>
+			<th>Custom Order Request</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var orders in Orders)
+		{
+			<tr>
+				<td>@orders.FirstName</td>
+				<td>@orders.LastName</td>
+				<td>@orders.Email</td>
+				<td>@orders.PhoneNumber</td>
+				<td>@orders.CustomOrderRequest</td>
+				<td>
+					<button class="btn btn-primary" @onclick="() => EditViewOrder(orders.Id)">Edit Order</button>
+					<button class="btn btn-danger" @onclick="() => DeleteOrder(orders.Id)">Delete Order</button>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+@* Button to add a new asset for the user*@
+<button class="btn btn-success" @onclick="AddOrder">Add Order</button>
+
+
+@code {
+	private List<Order> Orders = new();
+
+	protected override void OnInitialized()
+	{
+		// Ensure the lists are always initialized
+		Orders = Database.Orders.ToList();
+		//Assets ??= new List<Asset>();
+		
+	}
+
+	private void AddOrder()
+	{
+		Console.WriteLine("Navigating to Add Asset page.");
+		Navigation.NavigateTo("/Asset-Details");
+	}
+
+	private void EditViewOrder(int id)
+	{
+		//Navigate to edit page
+		Console.WriteLine($"EditViewAsset called with ID: {id}");
+		Navigation.NavigateTo($"/Asset-Details/{id}");
+	}
+
+	private void DeleteOrder(int id)
+	{
+		Console.WriteLine($"Deleting asset with ID: {id}");
+		//Delete the aset from the list
+		Orders.RemoveAll(a => a.Id == id);
+	}
+
+
+}

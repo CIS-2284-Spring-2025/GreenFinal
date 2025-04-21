@@ -1,0 +1,96 @@
+﻿@*Name: Daria Green*@
+@*Email: Dgreen50@cnm.edu*@
+@*Program: DariaIncorporatedYarn*@
+
+@page "/blog"
+@inject ApplicationDbContext DbContext
+@using DariaIncorporatedYarn.Data
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Components.Forms
+@using System.ComponentModel.DataAnnotations
+
+<h1>Welcome to the Crochet Chronicles</h1>
+
+<p>Share your ideas, showcase your creativity, and connect with fellow crocheters! Whether you're posting your latest project, sharing a tip, or telling the story behind your favorite stitch, this is your space to shine. Let's celebrate the art of crochet together!</p>
+
+<div class="blog-post-form">
+    <h3>Write Your Blog Post</h3>
+    <EditForm Model="@blogPostForm" FormName="BlogForm" OnValidSubmit="HandleSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="mb-3">
+            <label for="title" class="form-label">Post Title</label>
+            <InputText id="title" class="form-control" @bind-Value="blogPostForm.PostTitle" />
+            <ValidationMessage For="@(() => blogPostForm.PostTitle)" />
+        </div>
+
+        <div class="mb-3">
+            <label for="content" class="form-label">Content</label>
+            <InputTextArea id="content" class="form-control" @bind-Value="blogPostForm.Content" rows="6" />
+            <ValidationMessage For="@(() => blogPostForm.Content)" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit Your Post</button>
+    </EditForm>
+</div>
+
+<div class="blog-posts">
+    <h2>Community Blog Posts</h2>
+    @foreach (var post in blogPosts)
+    {
+        <div class="post">
+            <h4>@post.PostTitle</h4>
+            <p>@post.Content</p>
+            <hr />
+        </div>
+    }
+</div>
+
+@code {
+    private BlogPostForm blogPostForm = new BlogPostForm();
+    private List<BlogPost> blogPosts = new()
+    {
+        new BlogPost { PostTitle = "Top 5 Yarn Hacks", Content = "Discover fun and easy ways to make your crochet experience even smoother!" },
+        new BlogPost { PostTitle = "My Journey with Granny Squares", Content = "I never imagined how versatile they could be—here's my story." }
+    };
+
+    protected override async Task OnInitializedAsync()
+    {
+        blogPosts = await DbContext.BlogPosts.OrderByDescending(b => b.CreatedAt).ToListAsync();
+    }
+
+    private async Task HandleSubmit()
+    {
+        try
+        {
+            var newBlogPost = new BlogPost
+                {
+                    PostTitle = blogPostForm.PostTitle,
+                    Content = blogPostForm.Content
+                };
+
+            DbContext.BlogPosts.Add(newBlogPost);
+            await DbContext.SaveChangesAsync();
+
+            // Clear the form fields
+            blogPostForm = new BlogPostForm();
+
+            // Reload the posts from the database
+            blogPosts = await DbContext.BlogPosts.OrderByDescending(b => b.CreatedAt).ToListAsync();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error saving blog post: {ex.Message}");
+        }
+    }
+
+
+    public class BlogPostForm
+    {
+        [Required] public string PostTitle { get; set; }
+        [Required] public string Content { get; set; }
+    }
+
+  
+}

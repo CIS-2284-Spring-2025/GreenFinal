@@ -1,3 +1,4 @@
+using System.Text.Json;
 using System.Diagnostics;
 using System.Security.Claims;
 using DariaIncorporatedYarn.Client;
@@ -88,6 +89,7 @@ namespace DariaIncorporatedYarn.Components.Account
             {
                 var userId = principal.FindFirst(options.ClaimsIdentity.UserIdClaimType)?.Value;
                 var email = principal.FindFirst(options.ClaimsIdentity.EmailClaimType)?.Value;
+                var roles = principal.FindAll(ClaimTypes.Role).Select(x => x.Value); //Added for roles
 
                 if (userId != null && email != null)
                 {
@@ -95,6 +97,7 @@ namespace DariaIncorporatedYarn.Components.Account
                     {
                         UserId = userId,
                         Email = email,
+                        Roles = roles,
                     });
                 }
             }

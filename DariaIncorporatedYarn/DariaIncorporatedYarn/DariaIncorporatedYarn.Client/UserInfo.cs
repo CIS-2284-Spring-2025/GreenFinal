@@ -6,5 +6,6 @@ namespace DariaIncorporatedYarn.Client
     {
         public required string UserId { get; set; }
         public required string Email { get; set; }
+        public required IEnumerable<string> Roles { get; set; }
     }
 }
