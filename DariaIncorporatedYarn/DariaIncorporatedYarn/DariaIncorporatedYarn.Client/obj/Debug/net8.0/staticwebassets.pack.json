@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\appsettings.Development.json",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\appsettings.json",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\Logo.jpg",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\Logo.jpg",
       "PackagePath": "staticwebassets\\images\\Logo.jpg"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject1.png",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject1.png",
       "PackagePath": "staticwebassets\\images\\yarnProject1.png"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject2.png",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject2.png",
       "PackagePath": "staticwebassets\\images\\yarnProject2.png"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject3.png",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject3.png",
       "PackagePath": "staticwebassets\\images\\yarnProject3.png"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject4.png",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject4.png",
       "PackagePath": "staticwebassets\\images\\yarnProject4.png"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject5.png",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject5.png",
       "PackagePath": "staticwebassets\\images\\yarnProject5.png"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject6.png",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\wwwroot\\images\\yarnProject6.png",
       "PackagePath": "staticwebassets\\images\\yarnProject6.png"
     },
     {

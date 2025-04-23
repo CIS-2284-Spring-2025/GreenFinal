@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\",
+  "WorkspaceRootPath": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\onedrive\\documents\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\components\\pages\\blog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\source\\greenfinal\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\components\\pages\\ordersdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\components\\pages\\ordersdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\source\\greenfinal\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33415EEB-D323-43D0-B37F-4DD54E9DD8E4}|DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj|c:\\users\\daria\\source\\greenfinal\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn.client\\pages\\crochetprojects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33415EEB-D323-43D0-B37F-4DD54E9DD8E4}|DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn.client\\pages\\crochetprojects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\source\\greenfinal\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\source\\greenfinal\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\components\\pages\\blog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\components\\pages\\blog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\onedrive\\documents\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\source\\greenfinal\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\components\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\components\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\source\\greenfinal\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\onedrive\\documents\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\source\\greenfinal\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\onedrive\\documents\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\onedrive\\documents\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\source\\greenfinal\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\onedrive\\documents\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|c:\\users\\daria\\onedrive\\documents\\dariaincorporatedyarn\\dariaincorporatedyarn\\dariaincorporatedyarn\\components\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05C20A7B-330F-445C-82B0-246B74AEFBBF}|DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj|solutionrelative:dariaincorporatedyarn\\dariaincorporatedyarn\\components\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\app.css",
+              "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\app.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T22:34:38.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrochetProjects.razor",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\Pages\\CrochetProjects.razor",
+              "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\Pages\\CrochetProjects.razor",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\Pages\\CrochetProjects.razor",
+              "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\Pages\\CrochetProjects.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T22:31:33.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T22:27:50.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersDetails.razor",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\OrdersDetails.razor",
+              "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\OrdersDetails.razor",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\OrdersDetails.razor",
+              "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\OrdersDetails.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T22:27:19.442Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -50,23 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\appsettings.json",
-              "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\appsettings.json",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\appsettings.json",
-              "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-21T04:29:46.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,49 +122,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\EmailSender.cs",
-              "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\EmailSender.cs",
-              "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\EmailSender.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T03:27:38.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Blog.razor",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\Blog.razor",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\Blog.razor",
               "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\Blog.razor",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\Blog.razor",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\Blog.razor",
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\Blog.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-20T01:42:59.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DariaIncorporatedYarn.csproj",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj",
               "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj",
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-20T01:31:51.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T01:31:51.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Program.cs",
               "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Program.cs",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Program.cs",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Program.cs",
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,15 +159,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "BlogPost.cs",
-              "DocumentMoniker": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Models\\BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Models\\BlogPost.cs",
               "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Models\\BlogPost.cs",
-              "ToolTip": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Models\\BlogPost.cs",
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Models\\BlogPost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T00:43:29.336Z"
+              "WhenOpened": "2025-04-20T00:43:29.336Z",
+              "EditorCaption": ""
             }
           ]
         }

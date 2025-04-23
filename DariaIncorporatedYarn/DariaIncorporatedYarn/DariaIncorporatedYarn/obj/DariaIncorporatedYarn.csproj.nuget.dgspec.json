@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj": {}
+    "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj": {
+    "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj",
         "projectName": "DariaIncorporatedYarn.Client",
-        "projectPath": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj",
+        "projectPath": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,14 +97,14 @@
         }
       }
     },
-    "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj": {
+    "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj",
         "projectName": "DariaIncorporatedYarn",
-        "projectPath": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj",
+        "projectPath": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,8 +126,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj": {
-                "projectPath": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj"
+              "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj": {
+                "projectPath": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\DariaIncorporatedYarn.Client.csproj"
               }
             }
           }

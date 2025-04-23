@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DariaIncorporatedYarn.bundle.scp.css",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DariaIncorporatedYarn.bundle.scp.css",
       "PackagePath": "staticwebassets\\DariaIncorporatedYarn.215eu7upa6.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\images\\book-fill.svg",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\images\\book-fill.svg",
       "PackagePath": "staticwebassets\\images\\book-fill.svg"
     },
     {
-      "Id": "C:\\Users\\Daria\\OneDrive\\Documents\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\images\\cart.svg",
+      "Id": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\images\\cart.svg",
       "PackagePath": "staticwebassets\\images\\cart.svg"
     },
     {

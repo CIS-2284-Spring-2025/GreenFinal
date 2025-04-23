@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DariaIncorporatedYarn.Client",
   "resources": {
-    "hash": "sha256-UQ5kZyHLeA0BGZ9I+XWWZNfErKTUf9LK2faFLkzQCgo=",
+    "hash": "sha256-N+Z4Z7y7I14zCHRdi8juVXlS1EYiNpnt57dBsdQ6gm4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -211,10 +211,10 @@
       "mscorlib.wasm": "sha256-BeLfFpg9iS3DkEdywsYY7sV6ML3knqkMaMq0JBEbWlw=",
       "netstandard.wasm": "sha256-VkjUtJ6DK5bFTc2JwwGHmQY3tBcNSC7zMSJXuiXcnJA=",
       "System.Private.CoreLib.wasm": "sha256-VIQEPUSb48N39LR+ncGDP5xU02xuRbyZU8MhMho26wQ=",
-      "DariaIncorporatedYarn.Client.wasm": "sha256-60anPwbTocNuqwKVsvY/oyA+zzGbQJNASwkvN5P7q98="
+      "DariaIncorporatedYarn.Client.wasm": "sha256-ZTsvpysGQSpSwDaE1A3u2D1LDMrwP9wfHXqh4y/m8o4="
     },
     "pdb": {
-      "DariaIncorporatedYarn.Client.pdb": "sha256-TU5n94MnuNp5RM8fTaQCLgZlqQmPlTz8BED9hCk8jAw="
+      "DariaIncorporatedYarn.Client.pdb": "sha256-ScoWkeVPo14qDVNExJWsXS8EycYMcguBYgAxxDGcy+w="
     }
   },
   "cacheBootResources": true,

@@ -44,3 +44,12 @@ C:\Users\Daria\OneDrive\Documents\DariaIncorporatedYarn\DariaIncorporatedYarn\Da
 C:\Users\Daria\OneDrive\Documents\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\OneDrive\Documents\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\OneDrive\Documents\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json

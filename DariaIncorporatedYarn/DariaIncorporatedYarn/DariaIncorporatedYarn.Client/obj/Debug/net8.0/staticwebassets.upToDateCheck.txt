@@ -1,0 +1,9 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+wwwroot\images\Logo.jpg
+wwwroot\images\yarnProject1.png
+wwwroot\images\yarnProject2.png
+wwwroot\images\yarnProject3.png
+wwwroot\images\yarnProject4.png
+wwwroot\images\yarnProject5.png
+wwwroot\images\yarnProject6.png
