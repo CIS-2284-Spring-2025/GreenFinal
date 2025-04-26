@@ -53,3 +53,4 @@ C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\Dar
 C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\source\GreenFinal\DariaIncorporatedYarn\DariaIncorporatedYarn\DariaIncorporatedYarn.Client\obj\Debug\net8.0\staticwebassets.build.json

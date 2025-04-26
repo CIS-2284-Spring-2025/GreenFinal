@@ -46,8 +46,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -58,8 +66,7 @@
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\wwwroot\\app.css",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-23T22:34:38.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T22:34:38.485Z"
             },
             {
               "$type": "Document",
@@ -71,8 +78,7 @@
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn.Client\\Pages\\CrochetProjects.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T22:31:33.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T22:31:33.445Z"
             },
             {
               "$type": "Document",
@@ -84,8 +90,7 @@
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-23T22:27:50.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T22:27:50.072Z"
             },
             {
               "$type": "Document",
@@ -95,18 +100,10 @@
               "RelativeDocumentMoniker": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\OrdersDetails.razor",
               "ToolTip": "C:\\Users\\Daria\\source\\GreenFinal\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\OrdersDetails.razor",
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\OrdersDetails.razor",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-23T22:27:19.442Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Pages\\Blog.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T01:42:59.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T01:42:59.467Z"
             },
             {
               "$type": "Document",
@@ -167,8 +163,7 @@
               "RelativeToolTip": "DariaIncorporatedYarn\\DariaIncorporatedYarn\\Components\\Models\\BlogPost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T00:43:29.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T00:43:29.336Z"
             }
           ]
         }
